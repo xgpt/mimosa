@@ -20,7 +20,7 @@ While MIMOSA is not an officially Google supported project, it is a great start 
   b. Iterate quickly. Engage with the users early.
 3. Test the system with the user and adjust sensitivity settings, modules placement, mechanical arrangements, etc.
 
-# Custom Modules - Design Blueprints Available Throught This Repository
+# Custom Modules - Design Blueprints Available Through This Repository
 ![blocks](/images/mimosa_blocks.jpg)
 1. **High dynamic range force sensor**. This board can be used to monitor force application along 1 axis with an impressive sensitivity (well below 1g), and good dynamic range such that a stronger force can still be registered without saturation.
 2. **Joystick interface**. The goal of the board is to provide a solderless interface board compatible with the tiny joysticks available on the market. Tested with [1](https://www.adafruit.com/product/3103?gclid=CjwKCAjwo4mIBhBsEiwAKgzXOLo4MXqrfOciSVSgiRNq5dNijwRDPIEh7QklhfaW0UjwFYq1YEu6FxoC2MIQAvD_BwE), [2](https://www.amazon.com/gp/product/B08397JQZG).
